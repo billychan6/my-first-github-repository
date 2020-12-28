@@ -1,3 +1,4 @@
 # my-first-github-repository
 my first Github repo
-another change. This file was modified locally.
+
+This line was modified manually during merged conflict
